@@ -5,3 +5,5 @@ services:
     build: .
     ports:
       - 3000:3000
+    environment:
+      NUXT_SESSION_PASSWORD: f8b1941d979847a18adcbec3e2ea2147
