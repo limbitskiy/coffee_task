@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+@import "./reset.css";
+
+body {
+  /* height: 100dvh; */
+}

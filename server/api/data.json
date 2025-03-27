@@ -1,0 +1,254 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "status": "inactive",
+      "date_created": "2025-01-23T00:00:00.000Z",
+      "name": "Item 1",
+      "category": "D",
+      "price": "600.74",
+      "isAvailable": true,
+      "tags": ["sale", "limited", "exclusive"]
+    },
+    {
+      "id": 2,
+      "status": "active",
+      "date_created": "2024-12-05T00:00:00.000Z",
+      "name": "Item 2",
+      "category": "A",
+      "price": "130.72",
+      "isAvailable": false,
+      "tags": ["sale", "limited", "new", "popular"]
+    },
+    {
+      "id": 3,
+      "status": "active",
+      "date_created": "2025-02-26T00:00:00.000Z",
+      "name": "Item 3",
+      "category": "A",
+      "price": "377.28",
+      "isAvailable": false,
+      "tags": ["new", "sale", "exclusive"]
+    },
+    {
+      "id": 4,
+      "status": "active",
+      "date_created": "2025-01-19T00:00:00.000Z",
+      "name": "Item 4",
+      "category": "B",
+      "price": "393.55",
+      "isAvailable": true,
+      "tags": ["sale", "popular"]
+    },
+    {
+      "id": 5,
+      "status": "inactive",
+      "date_created": "2025-02-19T00:00:00.000Z",
+      "name": "Item 5",
+      "category": "C",
+      "price": "303.79",
+      "isAvailable": true,
+      "tags": ["popular", "new"]
+    },
+    {
+      "id": 6,
+      "status": "active",
+      "date_created": "2025-01-12T00:00:00.000Z",
+      "name": "Item 6",
+      "category": "B",
+      "price": "960.29",
+      "isAvailable": true,
+      "tags": ["exclusive", "popular", "sale"]
+    },
+    {
+      "id": 7,
+      "status": "active",
+      "date_created": "2025-03-21T00:00:00.000Z",
+      "name": "Item 7",
+      "category": "C",
+      "price": "48.52",
+      "isAvailable": true,
+      "tags": ["popular", "sale"]
+    },
+    {
+      "id": 8,
+      "status": "active",
+      "date_created": "2025-02-24T00:00:00.000Z",
+      "name": "Item 8",
+      "category": "A",
+      "price": "293.91",
+      "isAvailable": true,
+      "tags": ["new"]
+    },
+    {
+      "id": 9,
+      "status": "inactive",
+      "date_created": "2025-01-25T00:00:00.000Z",
+      "name": "Item 9",
+      "category": "D",
+      "price": "591.48",
+      "isAvailable": true,
+      "tags": ["new"]
+    },
+    {
+      "id": 10,
+      "status": "active",
+      "date_created": "2024-12-17T00:00:00.000Z",
+      "name": "Item 10",
+      "category": "A",
+      "price": "367.21",
+      "isAvailable": true,
+      "tags": ["new", "limited"]
+    },
+    {
+      "id": 11,
+      "status": "active",
+      "date_created": "2024-12-07T00:00:00.000Z",
+      "name": "Item 11",
+      "category": "A",
+      "price": "266.63",
+      "isAvailable": false,
+      "tags": ["sale", "exclusive"]
+    },
+    {
+      "id": 12,
+      "status": "active",
+      "date_created": "2025-02-18T00:00:00.000Z",
+      "name": "Item 12",
+      "category": "C",
+      "price": "290.50",
+      "isAvailable": true,
+      "tags": ["popular", "limited"]
+    },
+    {
+      "id": 13,
+      "status": "active",
+      "date_created": "2025-01-04T00:00:00.000Z",
+      "name": "Item 13",
+      "category": "B",
+      "price": "202.23",
+      "isAvailable": true,
+      "tags": ["limited", "sale"]
+    },
+    {
+      "id": 14,
+      "status": "inactive",
+      "date_created": "2025-03-02T00:00:00.000Z",
+      "name": "Item 14",
+      "category": "D",
+      "price": "550.78",
+      "isAvailable": false,
+      "tags": ["limited", "popular", "exclusive"]
+    },
+    {
+      "id": 15,
+      "status": "active",
+      "date_created": "2025-02-09T00:00:00.000Z",
+      "name": "Item 15",
+      "category": "B",
+      "price": "135.60",
+      "isAvailable": true,
+      "tags": ["exclusive", "new"]
+    },
+    {
+      "id": 16,
+      "status": "active",
+      "date_created": "2025-02-09T00:00:00.000Z",
+      "name": "Item 16",
+      "category": "D",
+      "price": "173.09",
+      "isAvailable": true,
+      "tags": ["sale"]
+    },
+    {
+      "id": 17,
+      "status": "inactive",
+      "date_created": "2025-01-25T00:00:00.000Z",
+      "name": "Item 17",
+      "category": "B",
+      "price": "154.56",
+      "isAvailable": false,
+      "tags": ["exclusive", "sale", "popular"]
+    },
+    {
+      "id": 18,
+      "status": "active",
+      "date_created": "2025-01-29T00:00:00.000Z",
+      "name": "Item 18",
+      "category": "A",
+      "price": "416.68",
+      "isAvailable": true,
+      "tags": ["new"]
+    },
+    {
+      "id": 19,
+      "status": "inactive",
+      "date_created": "2024-12-19T00:00:00.000Z",
+      "name": "Item 19",
+      "category": "B",
+      "price": "45.29",
+      "isAvailable": true,
+      "tags": ["sale", "exclusive", "sale"]
+    },
+    {
+      "id": 20,
+      "status": "active",
+      "date_created": "2024-12-26T00:00:00.000Z",
+      "name": "Item 20",
+      "category": "C",
+      "price": "439.71",
+      "isAvailable": true,
+      "tags": ["sale", "exclusive"]
+    },
+    {
+      "id": 21,
+      "status": "inactive",
+      "date_created": "2025-03-24T00:00:00.000Z",
+      "name": "Item 21",
+      "category": "B",
+      "price": "86.29",
+      "isAvailable": true,
+      "tags": ["new", "popular", "limited", "exclusive"]
+    },
+    {
+      "id": 22,
+      "status": "active",
+      "date_created": "2025-01-27T00:00:00.000Z",
+      "name": "Item 22",
+      "category": "B",
+      "price": "304.40",
+      "isAvailable": true,
+      "tags": ["sale", "limited"]
+    },
+    {
+      "id": 23,
+      "status": "inactive",
+      "date_created": "2025-03-12T00:00:00.000Z",
+      "name": "Item 23",
+      "category": "C",
+      "price": "314.45",
+      "isAvailable": false,
+      "tags": ["exclusive"]
+    },
+    {
+      "id": 24,
+      "status": "inactive",
+      "date_created": "2024-12-30T00:00:00.000Z",
+      "name": "Item 24",
+      "category": "A",
+      "price": "435.36",
+      "isAvailable": false,
+      "tags": ["sale", "limited"]
+    },
+    {
+      "id": 25,
+      "status": "active",
+      "date_created": "2025-03-12T00:00:00.000Z",
+      "name": "Item 25",
+      "category": "A",
+      "price": "999.62",
+      "isAvailable": true,
+      "tags": ["sale", "new", "popular"]
+    }
+  ]
+}
