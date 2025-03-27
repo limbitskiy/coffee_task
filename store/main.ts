@@ -8,7 +8,7 @@ export const useMainStore = defineStore("main", () => {
 
   const items = computed(() => state.value.items);
 
-  function setItems(items: []) {
+  function setItems(items: TableItem[]) {
     state.value.items = items;
   }
 
